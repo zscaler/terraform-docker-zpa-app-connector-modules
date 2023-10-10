@@ -32,12 +32,7 @@ Our Deployment scripts are leveraging Terraform v1.1.9 that includes full binary
 
 ### Docker requirements
 
-1. A valid AWS account
-2. AWS ACCESS KEY ID
-3. AWS SECRET ACCESS KEY
-4. AWS Region (E.g. us-west-2)
-5. Subscribe and accept terms of using Amazon Linux 2 AMI (for base deployments with workloads + bastion) at [this link](https://aws.amazon.com/marketplace/pp/prodview-zc4x2k7vt6rpu)
-6. Subscribe and accept terms of using Zscaler App Connector image at [this link](https://aws.amazon.com/marketplace/pp/prodview-epy3md7fcvk4g)
+Please visit the Zscaler [Help Portal](https://help.zscaler.com/zpa/app-connector-deployment-guide-docker) the detailed requirements on App Connectors deployment on docker platform.
 
 ### Zscaler requirements
 
