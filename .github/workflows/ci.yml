@@ -64,9 +64,3 @@ jobs:
             terraform init -backend=false
             terraform validate
           done
-
-  zscaler-iac-scan:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Code Checkout
-        uses: actions/checkout@v2
